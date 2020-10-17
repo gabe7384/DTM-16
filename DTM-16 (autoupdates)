@@ -2,5 +2,5 @@
 
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-16.theme.css);
 :root { /* Configurable options!! */
-	--jumboemojisize: 3rem; /* 2rem - old size; 3rem - new size, but you can set it to anything you want  */
+	--jumboemojisize: 3rem; /* 2rem - old size; 3rem - new size, but you can set it to anything you want */
 }
