@@ -4,5 +4,5 @@
     "version": "4.7",
     "author": "11pixels#2004",
     "license": "My brain",
-    "theme": "DTM-16 (autoupdates)"
+    "theme": "./DTM-16 (autoupdates)"
 }
