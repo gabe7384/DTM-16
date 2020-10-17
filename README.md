@@ -6,4 +6,5 @@ From my use of the theme there are some bugs with compact mode apperance
 
 
 His server ----> https://discord.gg/cGMZ76f
+
 My server -----> https://discord.gg/yFueCRa
