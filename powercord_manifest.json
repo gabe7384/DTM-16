@@ -3,5 +3,5 @@
     "description": "Brings back old 2016 Discord UI",
     "version": "4.7",
     "author": "11pixels#2004",
-    "theme": "./DTM-16 (autoupdates)"
+    "theme": "DTM-16.css"
 }
