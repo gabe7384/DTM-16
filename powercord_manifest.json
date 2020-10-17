@@ -1,7 +1,7 @@
 {
     "name": "DTM-16",
-    "description": "Brings back old 2016 Discord UI",
-    "version": "4.7",
-    "author": "11pixels#2004",
+    "description": "Formerly known as Oldcord, this theme tries to bring back the 2016 look of Discord (albeit failing horribly in some places)",
+    "version": "4.7 (Auto-update)",
+    "author": "11pixels",
     "theme": "DTM-16.css",
 }
