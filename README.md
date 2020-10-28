@@ -9,4 +9,4 @@ His server ----> https://discord.gg/cGMZ76f
 
 My server -----> https://discord.gg/yFueCRa
 
-
+Still working on this to make it compatible with Powercord
