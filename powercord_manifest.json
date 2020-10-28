@@ -2,7 +2,7 @@
     "name": "DTM-16",
     "version": "4.7",
     "license": "UNKNOWN",
-    "theme": "DTM-16.css"
+    "theme": "DTM-16.css",
     "author": "11pixels#2004",
     "description": "Formerly known as Oldcord, this theme tries to bring back the 2016 look of Discord (albeit failing horribly in some places)"
 }
