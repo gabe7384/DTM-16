@@ -6,4 +6,4 @@ His server ----> https://discord.gg/cGMZ76f
 
 My server -----> https://discord.gg/yFueCRa
 
-**Working on Light Theme for it**
+**Light theme now works**
