@@ -7,10 +7,5 @@
 	--qrcode-icon: block; /* block = ON, none = OFF - show or hide the discord logo icon in discord's qr codes (like on login screen) */
 }
 .theme-light {
-    --toast-background: #fff;
-    --toast-header: #e3e5e8;
-    --toast-contents: #f2f3f5;
-    --toast-box-shadow: rgba(0, 0, 0, .1);
-    --toast-border: rgba(28, 36, 43, .06);
     --scrollbar-auto-thumb: #7289da;
 }
